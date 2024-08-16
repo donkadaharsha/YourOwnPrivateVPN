@@ -4,6 +4,16 @@ A secure, custom VPN setup on AWS using OpenVPN Server, providing private networ
 ## Project Overview
 This project demonstrates the creation of a private VPN using AWS and OpenVPN Server. By leveraging the flexibility and scalability of AWS, I configured a secure and customizable VPN environment that ensures enhanced privacy and control over network traffic. This setup allows for secure remote access to resources, bypassing geo-restrictions, and protecting online activities from third-party monitoring. The project includes detailed instructions on deploying the OpenVPN server on an EC2 instance, configuring security groups, and connecting client devices to the VPN.
 
+
+## Why do you want to go through this process when you can just download pre built VPNs like Nord or Proton?
+Creating your own VPN using AWS and OpenVPN offers several advantages over using a pre-built VPN service like NordVPN or ProtonVPN. However, there are also trade-offs to consider. Here's why - 
+1. No Subscription Fees: Avoid ongoing subscription costs that come with commercial VPN services.
+2. Trust Issues: You have to trust the VPN provider with your data, as they could potentially log, monitor, or even sell your browsing activity.
+3. Data Breaches: If the VPN provider experiences a data breach, your personal information, including connection logs, could be exposed.
+4. Jurisdiction Concerns: The provider may be located in a country with laws that could compel them to hand over user data to government agencies.
+5. Third-party VPNs often assign the same IP address to multiple users, which can lead to security and privacy issues if someone else using the same IP engages in malicious activities. By running your own OpenVPN server, you eliminate this shared risk and have greater control over your network environment.
+
+
 ## Prerequisites
 Before starting, ensure you have the following:
 
