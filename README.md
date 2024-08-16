@@ -74,7 +74,8 @@ Now, Just connect!
 ![image](https://github.com/user-attachments/assets/c29db261-42a5-4a8b-a45d-8bbdd3467a1f)
 
 To verify, you can go to google and type 'What is my ip?' and it will show you your oublic IP address.
-![image](https://github.com/user-attachments/assets/a4bc0088-03c6-4fb0-9917-dee8bfd2aa5e)
+![image](https://github.com/user-attachments/assets/c7072a23-6581-4664-b874-42e1898d4b52)
+
 
 After connecting to OpenVPN, you can check your IP again and it should not display your real Public IP address and instead show a VPN address hiding your real IP address. 
 ![image](https://github.com/user-attachments/assets/f192bc8c-b786-4c68-b8b8-a98b88595836)
